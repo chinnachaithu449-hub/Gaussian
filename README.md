@@ -19,8 +19,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Program:
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: A.Jayachandran
-RegisterNumber: 25015034
+Developed by: G chaithanya
+RegisterNumber: 212225230087
 */
 ~~~
 import os 
