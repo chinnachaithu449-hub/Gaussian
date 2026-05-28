@@ -17,12 +17,13 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 
 ## Program:
-
+~~~
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: G chaithanya
 RegisterNumber: 212225230087
 */
+~~~
 ~~~
 import os 
 os.environ["OPENBLAS_NUM_THREADS"]="1"
