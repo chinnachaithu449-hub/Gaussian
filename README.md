@@ -17,13 +17,11 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 
 ## Program:
-~~~
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: G chaithanya
-RegisterNumber: 212225230087
+Developed by: A.Jayachandran
+RegisterNumber: 25015034
 */
-~~~
 ~~~
 import os 
 os.environ["OPENBLAS_NUM_THREADS"]="1"
@@ -45,7 +43,6 @@ for i in range(13):
 result=solve_gaussian(data)
 print("".join([f"X{i} = {val:.2f} " for i,val in enumerate(result)]))
 ~~~
-
 ## Output:
 <img width="753" height="494" alt="{DACF2D9E-2955-4AE9-8A89-1C16C75F88C1}" src="https://github.com/user-attachments/assets/86c33f03-bbda-420b-a04f-1133d38804b8" />
 
